@@ -81,6 +81,8 @@ pnpm install
 
 # 运行文档站点，用来测试组件，预览文档
 pnpm docs:dev
+
+yay -Syu
 ```
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Star History
